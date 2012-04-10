@@ -47,4 +47,6 @@ If you want to add entries, fork it, add away, and send a pull request. I'm incl
 
 Public domain information, no restrictions whatsoever. 
 
+However, if you split this off somewhere else and add your own expertise to it, please keep it public. Most ideally, keep it within Github, so that your additions can easily be seen and retrieved.
+
 Project initiated by Eric Mill at the [Sunlight Foundation](http://sunlightfoundation.com).
