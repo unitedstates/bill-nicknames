@@ -4,6 +4,10 @@ A CSV file that maps bill codes to popular nicknames and keywords.
 
 If you run a service that allows people to search for bills, this would be a great dataset to integrate into your search.
 
+Because this is designed to be responsive to **user searches**, it's important not to be literal. If someone searches for "SOPA", this should match on both SOPA **and** PIPA, because people don't know the difference, and the two are often confused or referred to as a single entity.
+
+Similarly, "Obamacare" should match on both the Patient Protection and Affordable Care Act **and** the associated Health Care and Education Reconciliation Act, which were passed as a package deal and both collectively define what people think of as "Obamacare".
+
 
 ### How it works
 

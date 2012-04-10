@@ -1,6 +1,8 @@
 bill_type,bill_number,congress,term,comments
-hr,3590,111,obamacare,"This is ""the health care bill"" that people usually mean when they say Obamacare."
+hr,3590,111,obamacare,This is the foundational health care bill that people usually mean when they say Obamacare.
 hr,4872,111,obamacare,"This is the bill that accompanied HR 3590, that passed through the Senate reconciliation procedure and was passed by the House along with HR 3590 in the same night."
-hr,3590,111,ppaca,"An acronym people often use for the Patient Protection and Affordable Care Act."
-s,968,112,pipa,"Acronym for the Protect IP Act"
-hr,3261,112,sopa,"Acronym for the Stop Online Piracy Act"
+hr,3590,111,ppaca,An acronym people often use for the Patient Protection and Affordable Care Act.
+s,968,112,pipa,Acronym for the Protect IP Act
+hr,3261,112,sopa,Acronym for the Stop Online Piracy Act
+s,968,112,sopa,"SOPA and PIPA are part of the same idea, and people may know one acronym and not the other."
+hr,3261,112,pipa,"SOPA and PIPA are part of the same idea, and people may know one acronym and not the other."
