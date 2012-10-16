@@ -33,7 +33,7 @@ The CSV has 5 columns.
 
 **congress** - The number of the Congress this bill was introduced in. (e.g. for the 111th Congress, this would be "111")
 
-**term** - The term or phrase that should be associated with this bill. Case insensitive, all lower case.
+**term** - The term or phrase that should be associated with this bill. All lower case.
 
 **comment** - Any comment to describe why this bill should be linked to this keyword.
 
