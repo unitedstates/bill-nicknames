@@ -11,7 +11,7 @@ This dataset is designed to be responsive to user searches, so it's not always a
 
 Similarly, "Obamacare" should match on both the [Patient Protection and Affordable Care Act](https://en.wikipedia.org/wiki/Patient_Protection_and_Affordable_Care_Act) and the associated [Health Care and Education Reconciliation Act](https://en.wikipedia.org/wiki/Health_Care_and_Education_Reconciliation_Act_of_2010), which were passed as a package deal and both collectively define what people think of as "Obamacare".
 
-One possible way to have both precision and flexibility would be to add another column that has a relationship flag, to distinguish between terms that refer to a bill exactly, or terms that are less directly related. [Open an issue](https://github.com/sunlightlabs/bill-nicknames/issues) if you want to talk about that.
+One possible way to have both precision and flexibility would be to add another column that has a relationship flag, to distinguish between terms that refer to a bill exactly, or terms that are less directly related. [Open an issue](https://github.com/unitedstates/bill-nicknames/issues) if you want to talk about that.
 
 
 ### How it works
@@ -45,7 +45,7 @@ If you want to add entries, fork it, add away, and send a pull request. I'm incl
 
 ### License
 
-Public domain information, no restrictions whatsoever. 
+Published under the public domain [Unlicense](/unitedstates/bill-nicknames/blob/master/LICENSE), no restrictions whatsoever.
 
 However, if you split this off somewhere else and add your own expertise to it, please keep it public. Most ideally, keep it within Github, so that your additions can easily be seen and retrieved.
 
