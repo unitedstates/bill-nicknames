@@ -43,10 +43,12 @@ The CSV has 5 columns.
 If you want to add entries, fork it, add away, and send a pull request. I'm inclined to take an inclusive approach, since false positives don't seem as bad as simply missing out on finding the bill someone was searching for altogether.
 
 
-### License
+## Public domain
 
-Published under the public domain [Unlicense](/unitedstates/bill-nicknames/blob/master/LICENSE), no restrictions whatsoever.
+This project is [dedicated to the public domain](LICENSE). As spelled out in [CONTRIBUTING](CONTRIBUTING.md):
 
-However, if you split this off somewhere else and add your own expertise to it, please keep it public. Most ideally, keep it within Github, so that your additions can easily be seen and retrieved.
+> The project is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](http://creativecommons.org/publicdomain/zero/1.0/).
 
-Project initiated by Eric Mill at the [Sunlight Foundation](http://sunlightfoundation.com).
+> All contributions to this project will be released under the CC0 dedication. By submitting a pull request, you are agreeing to comply with this waiver of copyright interest.
+
+**However**, if you split this off somewhere else and add your own expertise to it, our request is you keep it public. Most ideally, keep it within Github, so that your additions can easily be seen and retrieved.
