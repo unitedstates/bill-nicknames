@@ -40,7 +40,7 @@ The CSV has 5 columns.
 
 ### Contributing
 
-If you want to add entries, fork it, add away, and send a pull request. I'm inclined to take an inclusive approach, since false positives don't seem as bad as simply missing out on finding the bill someone was searching for altogether.
+If you want to add entries, fork it, add away, and send a pull request. I'm inclined to take an inclusive approach, since false positives don't seem as bad as simply missing out on finding the bill someone was searching for altogether!
 
 
 ## Public domain
